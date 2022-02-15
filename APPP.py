@@ -70,11 +70,10 @@ def main():
                                             </div>
                                             </br>"""
         st.markdown(html_temp_home1, unsafe_allow_html=True)
-        st.write("""
-                 The application has two functionalities.
-                 1. Real time face detection using web cam feed.
-                 2. Real time face emotion recognization.
-                 """)
+        st.write(""" The application has two functionalities.""")
+        st.write(""" 1. Real time face detection using web cam feed.""")
+        st.write(""" 1. Real time face detection using web cam feed.""")        
+        st.write("""  2. Real time face emotion recognization.""")
     elif choice == "Webcam Face Detection":
         st.header("Webcam Live Feed")
         st.write("Click on start to use webcam and detect your face emotion")
