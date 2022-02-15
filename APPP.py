@@ -91,7 +91,7 @@ def main():
 
         html_temp4 = """
                              		<div style="background-color:#98AFC7;padding:10px">
-                             		<h4 style="color:white;text-align:center;">This Application is developed by Saurabh Daund and Mouleena Jaiswal
+                             		<h4 style="color:white;text-align:center;">This Application is developed by Arkopravo Pradhan and Avisikta Majumdar
                              		using Streamlit Framework, Opencv, Tensorflow and Keras library for demonstration purpose. </h4>
                              		<h4 style="color:white;text-align:center;">Thanks for Visiting</h4>
                              		</div>
